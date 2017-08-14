@@ -1,4 +1,4 @@
-package org.baeldung.performancemonitor;
+package com.baeldung.performancemonitor;
 
 import org.aopalliance.intercept.MethodInvocation;
 import org.apache.commons.logging.Log;

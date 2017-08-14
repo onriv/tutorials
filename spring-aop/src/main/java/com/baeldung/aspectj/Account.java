@@ -1,4 +1,4 @@
-package org.baeldung.aspectj;
+package com.baeldung.aspectj;
 
 public class Account {
     int balance = 20;

@@ -1,4 +1,4 @@
-package org.baeldung.performancemonitor;
+package com.baeldung.performancemonitor;
 
 import java.time.LocalDate;
 

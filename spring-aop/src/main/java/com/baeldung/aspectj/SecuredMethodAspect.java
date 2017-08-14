@@ -1,5 +1,6 @@
-package org.baeldung.aspectj;
+package com.baeldung.aspectj;
 
+import com.baeldung.aspectj.Secured;
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;
 import org.aspectj.lang.annotation.Aspect;

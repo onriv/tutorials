@@ -1,5 +1,6 @@
-package org.baeldung.aspectj;
+package com.baeldung.aspectj;
 
+import com.baeldung.aspectj.Account;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

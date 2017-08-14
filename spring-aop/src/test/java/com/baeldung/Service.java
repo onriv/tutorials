@@ -1,5 +1,6 @@
-package org.baeldung;
+package com.baeldung;
 
+import com.baeldung.LogExecutionTime;
 import org.springframework.stereotype.Component;
 
 @Component

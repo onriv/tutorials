@@ -1,5 +1,6 @@
-package org.baeldung.aspectj;
+package com.baeldung.aspectj;
 
+import com.baeldung.aspectj.SecuredMethod;
 import org.junit.Test;
 
 public class SecuredMethodTest {

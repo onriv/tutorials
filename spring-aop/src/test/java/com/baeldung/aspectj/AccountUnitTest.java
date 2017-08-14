@@ -1,5 +1,6 @@
-package org.baeldung.aspectj;
+package com.baeldung.aspectj;
 
+import com.baeldung.aspectj.Account;
 import org.junit.Before;
 import org.junit.Test;
 
