@@ -10,4 +10,9 @@ public class Service {
     public void serve() throws InterruptedException {
         Thread.sleep(2000);
     }
+
+    @Skipped
+    public void skipped() {
+        throw new IllegalStateException();
+    }
 }
